@@ -1,40 +1,40 @@
 <p align="center">
-  <img src="assets/readme/Black Elegant Modern Personal LinkedIn Banner.png" alt="Abdul Basith - Flutter Developer" width="100%">
+  <img src="assets/readme/banner/banner.png" width="100%">
 </p>
 
-# 📝 To-Do List App
+# To-Do List App
 
 A simple and modern **To-Do List** application built with **Flutter** and **Firebase Firestore**. The app allows users to create, update, delete, search, and manage daily tasks with a clean and intuitive user interface.
 
 ---
 
-## ✨ Features
+## Features
 
-- ➕ Add new tasks
-- ✏️ Edit existing tasks
-- 🗑️ Delete tasks
-- ✅ Mark tasks as completed or pending
-- 🔍 Search tasks by title, description, or due date
-- 📅 Select a due date for each task
-- ☁️ Store tasks securely using Firebase Firestore
-- 📊 View completed and pending task statistics
-- 🎨 Clean and responsive UI
+- Add new tasks
+- Edit existing tasks
+- Delete tasks
+- Mark tasks as completed or pending
+- Search tasks by title, description, or due date
+- Select a due date for each task
+- Store tasks securely using Firebase Firestore
+- View completed and pending task statistics
+- Clean and responsive UI
 
 ---
 
-## 📱 Screenshots
+## Screenshots
 
 | Home Screen | Add Task | Edit Task |
 |:-----------:|:--------:|:---------:|
-| ![](assets/readme/WhatsApp Image 2026-07-19 at 9.21.11 PM.jpeg) | ![](assets/readme/WhatsApp Image 2026-07-19 at 9.21.12.jpeg) | ![](assets/readme/WhatsApp Image 2026-07-19 at 9.21.10.jpeg) |
+| ![](assets/readme/screenshots/home.jpeg) | ![](assets/readme/screenshots/add_task.jpeg) | ![](assets/readme/screenshots/edit_task.jpeg) |
 
 | Search | Completed Tasks |
 |:------:|:---------------:|
-| ![](assets/readme/image.png) | ![](assets/readme/WhatsApp Image 2026-07-19 at 9.21.10 PM.jpeg) |
+| ![](assets/readme/screenshots/search.png) | ![](assets/readme/screenshots/completed.jpeg) |
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - Flutter
 - Dart
@@ -44,7 +44,7 @@ A simple and modern **To-Do List** application built with **Flutter** and **Fire
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 lib/
@@ -59,27 +59,26 @@ lib/
 
 ---
 
-## 📁 Assets Structure
+##  Assets Structure
 
 ```text
 assets/
 ├── icons/
-│   ├── assets/icons/add.png
-│   ├── assets/icons/delete_3405251.png
-│   └── assets/icons/edit_17763438.png
+│   ├── add.png
+│   ├── delete.png
+│   └── edit.png
 │
 └── readme/
     ├── banner.png
-    │   └── assets/readme/banner/Black Elegant Modern Personal LinkedIn Banner.png
     └── screenshots/
-        ├── assets/readme/screenshots/image.png
-        ├── assets/readme/screenshots/WhatsApp Image 2026-07-19 at 9.21.10 PM.jpeg
-        ├── assets/readme/screenshots/WhatsApp Image 2026-07-19 at 9.21.10.jpeg
-        ├── assets/readme/screenshots/WhatsApp Image 2026-07-19 at 9.21.12.jpeg
-        └── assets/readme/screenshots/WhatsApp Image 2026-07-19.jpeg
+        ├── home.jpeg
+        ├── add_task.jpeg
+        ├── edit_task.jpeg
+        ├── search.png
+        └── completed.jpeg
 ```
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
@@ -116,7 +115,7 @@ flutter run
 
 ---
 
-## 📦 Dependencies
+##  Dependencies
 
 ```yaml
 provider:
@@ -127,14 +126,13 @@ intl:
 
 ---
 
-## 📌 Future Improvements
+##  Future Improvements
 
--  Firebase Authentication
--  Dark Mode
--  Task Reminders
--  Offline Support
--  Calendar View
--  Task Analytics
+- Firebase Authentication
+- Dark Mode
+- Task Reminders
+- Offline Support
+
 
 ---
 
@@ -150,5 +148,5 @@ intl:
 ---
 
 <p align="center">
-Thank you for taking the time to review this project — I'm actively seeking Flutter Developer opportunities and would love to connect.
+Thank you for taking the time to review this project and I'm actively seeking Flutter Developer opportunities and would love to connect.
 </p>
